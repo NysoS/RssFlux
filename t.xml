@@ -1,0 +1,63 @@
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-sheet"/>
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCKCtqfxo9HNhVFxvW3l7dpQ"/>
+<id>yt:channel:KCtqfxo9HNhVFxvW3l7dpQ</id>
+<yt:channelId>KCtqfxo9HNhVFxvW3l7dpQ</yt:channelId>
+<title>Rush Rivals</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UCKCtqfxo9HNhVFxvW3l7dpQ"/>
+<author>
+<name>Rush Rivals</name>
+<uri>https://www.youtube.com/channel/UCKCtqfxo9HNhVFxvW3l7dpQ</uri>
+</author>
+<published>2023-11-15T16:41:08+00:00</published>
+<entry>
+<id>yt:video:RZrK4j5Z-wc</id>
+<yt:videoId>RZrK4j5Z-wc</yt:videoId>
+<yt:channelId>UCKCtqfxo9HNhVFxvW3l7dpQ</yt:channelId>
+<title>Les bases de notre jeu ! 🕹</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=RZrK4j5Z-wc"/>
+<author>
+<name>Rush Rivals</name>
+<uri>https://www.youtube.com/channel/UCKCtqfxo9HNhVFxvW3l7dpQ</uri>
+</author>
+<published>2023-12-07T16:32:11+00:00</published>
+<updated>2023-12-07T16:38:31+00:00</updated>
+<media:group>
+<media:title>Les bases de notre jeu ! 🕹</media:title>
+<media:content url="https://www.youtube.com/v/RZrK4j5Z-wc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/RZrK4j5Z-wc/hqdefault.jpg" width="480" height="360"/>
+<media:description>Les bases de notre jeu ! 🕹 Il est enfin temps pour nous de lancer la phase de développement. Dans cette première vidéo on vous présente les 3C de RushRivals ! #art #programmer #developer #gamedev #gamedesign #jeuxvideo #videogame #devlog #master #rushrivals #ue5 #3d #game #foryou #fyp #rr #team #maya #zbrush #blender #unreal #production #parkour #student</media:description>
+<media:community>
+<media:starRating count="4" average="5.00" min="1" max="5"/>
+<media:statistics views="63"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:r_QCl46Ot2Q</id>
+<yt:videoId>r_QCl46Ot2Q</yt:videoId>
+<yt:channelId>UCKCtqfxo9HNhVFxvW3l7dpQ</yt:channelId>
+<title>11 masters, 8 mois, 1 jeu.🎮</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=r_QCl46Ot2Q"/>
+<author>
+<name>Rush Rivals</name>
+<uri>https://www.youtube.com/channel/UCKCtqfxo9HNhVFxvW3l7dpQ</uri>
+</author>
+<published>2023-12-01T16:05:46+00:00</published>
+<updated>2023-12-02T08:29:16+00:00</updated>
+<media:group>
+<media:title>11 masters, 8 mois, 1 jeu.🎮</media:title>
+<media:content url="https://www.youtube.com/v/r_QCl46Ot2Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/r_QCl46Ot2Q/hqdefault.jpg" width="480" height="360"/>
+<media:description>11 masters, 8 mois, 1 jeu.🎮 #art #programmer #developer #gamedev #gamedesign #jeuxvideo #videogame #devlog #master #rushrivals #ue5 #3D #game #foryou #fyp #rr #team #maya #zbrush #blender #unreal</media:description>
+<media:community>
+<media:starRating count="6" average="5.00" min="1" max="5"/>
+<media:statistics views="41"/>
+</media:community>
+</media:group>
+</entry>
+</feed>
