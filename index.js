@@ -26,9 +26,10 @@ app.use('/', (req, res, next) => {
   xhr.send(null);
 });
 
-const sslServer = https.createServer({
-  key: fs.readFileSync(path.join(__dirname, 'cert', 'key.pem')),
-  cert: fs.readFileSync(path.join(__dirname, 'cert', 'cert.pem')),
-}, app);
+// const sslServer = https.createServer({
+//   key: fs.readFileSync(path.join(__dirname, 'cert', 'key.pem')),
+//   cert: fs.readFileSync(path.join(__dirname, 'cert', 'cert.pem')),
+// }, app);
 
-sslServer.listen(3443, () => console.log('secure server'));
+//sslServer.listen(443, () => console.log('secure server'));
+app.listen(80, () => console.log("Server running"));
