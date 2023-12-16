@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs');
 
 app.use('/', (req, res, next) => {
-  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Origin', 'https://www.rush-rivals.com/');
 
   const xhr = new XMLHttpRequest();
   const parser = new XMLParser();
@@ -32,4 +32,4 @@ app.use('/', (req, res, next) => {
 // }, app);
 
 //sslServer.listen(443, () => console.log('secure server'));
-app.listen(80, () => console.log("Server running"));
+app.listen(8080, () => console.log("Server running"));
